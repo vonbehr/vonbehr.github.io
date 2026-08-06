@@ -18,15 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Florian von Behr
-email: florian@florianvonbehr.de
+title: "Florian von Behr"
+subtitle: "CG Supervisor • Technical Director • Pipeline Engineer"
+email: "florian@florianvonbehr.de"
 description: >- # this means to ignore newlines until "baseurl:"
-  CG Supervisor • Technical Director • Pipeline Engineer
-  Building scalable CGI pipelines for high-end visualization.
+  "Building scalable CGI pipelines for high-end visualization."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vonbehr.github.io" # the base hostname & protocol for your site
 # twitter_username: yourhandle
 # github_username: yourhandle
+
+
+# logo: "/assets/images/88x88.png"
+# masthead_title: "Florian von Behr"
+
+title_separator: "|"
+repository: "vonbehr/vonbehr.github.io"
+
+locale: "de-DE"
 
 # Build settings
 theme: minimal-mistakes-jekyll
@@ -40,13 +49,22 @@ plugins:
 # Site Author
 author:
   name: "Florian von Behr"
-  bio: ""
-  location: ""
+  bio: "CG Supervisor • Technical Director • Pipeline Engineer - Building scalable CGI pipelines for high-end visualization."
+  location: "Bremen"
   links: []
 
 # Site Footer
 footer:
-  links: []
+  links: 
+    - label "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/florianvonbehr/"
+    - label "Xing"
+      icon: "fa-brands fa-square-xing"
+      url: "https://www.xing.com/profile/Florian_vBehr/"
+
+
+
 
 words_per_minute: 200
 breadcrumbs: false
@@ -66,10 +84,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
