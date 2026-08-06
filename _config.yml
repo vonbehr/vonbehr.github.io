@@ -30,9 +30,54 @@ url: "https://vonbehr.github.io" # the base hostname & protocol for your site
 # github_username: yourhandle
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Site Author
+author:
+  name: "Florian von Behr"
+  bio: ""
+  location: ""
+  links: []
+
+# Site Footer
+footer:
+  links: []
+
+words_per_minute: 200
+breadcrumbs: false
+search: true
+search_full_content: false
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
