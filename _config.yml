@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Florian von Behr
 email: florian@florianvonbehr.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  CG Supervisor • Technical Director • Pipeline Engineer
+  Building scalable CGI pipelines for high-end visualization.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vonbehr.github.io" # the base hostname & protocol for your site
 # twitter_username: yourhandle
@@ -31,7 +30,7 @@ url: "https://vonbehr.github.io" # the base hostname & protocol for your site
 
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
