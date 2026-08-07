@@ -67,7 +67,7 @@ author:
       url: "mailto:florian@florianvonbehr.de"
 
 # Sidebar
-
+sidebar:
   - title: "Pipeline Entwicklung"
     text: "Ich entwickle Produktionspipelines für moderne CGI-Workflows – von Asset-Management und Workflow-Automatisierung bis zur Integration aktueller Technologien wie USD, MaterialX und Cloud-Rendering."
 
