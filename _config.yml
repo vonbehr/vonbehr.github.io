@@ -47,8 +47,8 @@ plugins:
 
 # Site Author
 author:
-  name: "Florian von Behr"
-  bio: ""
+  name: ""
+  bio: "Building scalable CGI pipelines for high-end visualization."
   location: "Bremen"
   links:
     - label: "LinkedIn"
