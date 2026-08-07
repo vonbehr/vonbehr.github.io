@@ -53,8 +53,8 @@ plugins:
 author:
   name: ""
   avatar: "/assets/images/florian_von_behr.jpeg"
-  bio: "Building scalable CGI pipelines for high-end visualization."
-  location: "Bremen"
+  # bio: "Building scalable CGI pipelines for high-end visualization."
+  # location: "Bremen"
   links:
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
@@ -65,6 +65,19 @@ author:
     - label: "Mail"
       icon: "fa-solid fa-envelope"
       url: "mailto:florian@florianvonbehr.de"
+
+# Sidebar
+
+  - title: "Pipeline Entwicklung"
+    text: "Ich entwickle Produktionspipelines für moderne CGI-Workflows – von Asset-Management und Workflow-Automatisierung bis zur Integration aktueller Technologien wie USD, MaterialX und Cloud-Rendering."
+
+  - title: "Technical Direction"
+    text: "Ich verbinde kreative Teams mit technischer Infrastruktur und entwickle Prozesse, die Produktionen effizienter, robuster und skalierbarer machen."
+
+
+  - title: "High_end Visualisierung"
+    text: "Seit über zwanzig Jahren arbeite ich an Visualisierungen für internationale Kunden aus den Bereichen Automotive, Industrie und Architektur."
+
 
 # Site Footer
 footer:
