@@ -25,9 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Building scalable CGI pipelines for high-end visualization.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vonbehr.github.io" # the base hostname & protocol for your site
-# twitter_username: yourhandle
-# github_username: yourhandle
-
 
 # logo: "/assets/images/88x88.png"
 # masthead_title: "Florian von Behr"
@@ -44,12 +41,14 @@ plugins:
   # - jekyll-feed
   - jekyll-include-cache
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
 
 # Site Author
 author:
-  name: "Florian von Behr"
-  bio: "CG Supervisor • Technical Director • Pipeline Engineer - Building scalable CGI pipelines for high-end visualization."
+  name: ""
+  bio: "Ich entwickle seit mehr als fünfzehn Jahren Lösungen für hochwertige CGI-Produktionen.
+        Mein Schwerpunkt liegt heute auf der Entwicklung effizienter Produktionspipelines, Workflow-Automatisierung und moderner Rendering-Technologien.
+        Ich arbeite gerne an der Schnittstelle zwischen Kreativität und Softwareentwicklung und unterstütze Teams dabei, komplexe Produktionsprozesse einfacher, robuster und skalierbarer zu gestalten."
   location: "Bremen"
   links: []
 
@@ -63,12 +62,9 @@ footer:
       icon: "fa-brands fa-square-xing"
       url: "https://www.xing.com/profile/Florian_vBehr/"
 
-
-
-
 words_per_minute: 200
 breadcrumbs: false
-search: true
+search: false
 search_full_content: false
 
 # Pagination
