@@ -46,7 +46,7 @@ minimal_mistakes_skin: "catppuccin_latte" # "air", "aqua", "contrast", "dark", "
 plugins:
   # - jekyll-feed
   - jekyll-include-cache
-  # - jekyll-sitemap
+  - jekyll-sitemap
 
 # Site Author
 author:
@@ -60,6 +60,9 @@ author:
     - label: "Xing"
       icon: "fa-brands fa-square-xing"
       url: "https://www.xing.com/profile/Florian_vBehr/"
+    - label: "Mail"
+      icon: "fa-solid fa-envelope"
+      url: "florian@florianvonbehr.de"
 
 # Site Footer
 footer:
