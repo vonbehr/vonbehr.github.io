@@ -3,4 +3,8 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-Sie erreichen mich unter [{{ site.email }}](mailto:{{ site.email }}).
+Florian von Behr
+Hildesheimer Str. 22
+28205 Bremen
+0151 4645 4645
+[{{ site.email }}](mailto:{{ site.email }}).
