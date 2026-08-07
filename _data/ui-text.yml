@@ -1,1 +1,4 @@
-follow_label: ""
+# German / Deutsch
+# -----------------
+de: &DEFAULT_DE
+  follow_label: ""
