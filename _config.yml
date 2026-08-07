@@ -46,9 +46,7 @@ plugins:
 # Site Author
 author:
   name: ""
-  bio: "Ich entwickle seit mehr als fünfzehn Jahren Lösungen für hochwertige CGI-Produktionen.
-        Mein Schwerpunkt liegt heute auf der Entwicklung effizienter Produktionspipelines, Workflow-Automatisierung und moderner Rendering-Technologien.
-        Ich arbeite gerne an der Schnittstelle zwischen Kreativität und Softwareentwicklung und unterstütze Teams dabei, komplexe Produktionsprozesse einfacher, robuster und skalierbarer zu gestalten."
+  bio: ""
   location: "Bremen"
   links: []
 
