@@ -22,7 +22,7 @@ title: "Florian von Behr"
 subtitle: "CG Supervisor • Technical Director • Pipeline Engineer"
 email: "florian@florianvonbehr.de"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Building scalable CGI pipelines for high-end visualization."
+  Building scalable CGI pipelines for high-end visualization.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vonbehr.github.io" # the base hostname & protocol for your site
 # twitter_username: yourhandle
@@ -55,11 +55,11 @@ author:
 
 # Site Footer
 footer:
-  links: 
-    - label "LinkedIn"
+  links:
+    - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/florianvonbehr/"
-    - label "Xing"
+    - label: "Xing"
       icon: "fa-brands fa-square-xing"
       url: "https://www.xing.com/profile/Florian_vBehr/"
 
