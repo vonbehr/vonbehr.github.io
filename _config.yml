@@ -62,7 +62,7 @@ author:
       url: "https://www.xing.com/profile/Florian_vBehr/"
     - label: "Mail"
       icon: "fa-solid fa-envelope"
-      url: "florian@florianvonbehr.de"
+      url: email
 
 # Site Footer
 footer:
@@ -73,6 +73,9 @@ footer:
     - label: "Xing"
       icon: "fa-brands fa-square-xing"
       url: "https://www.xing.com/profile/Florian_vBehr/"
+    - label: "Mail"
+      icon: "fa-solid fa-envelope"
+      url: email
 
 breadcrumbs: false
 search: false
