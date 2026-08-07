@@ -39,7 +39,7 @@ atom_feed:
 
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "catppuccin_latte" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   # - jekyll-feed
   - jekyll-include-cache
@@ -47,10 +47,16 @@ plugins:
 
 # Site Author
 author:
-  name: ""
+  name: "Florian von Behr"
   bio: ""
   location: "Bremen"
-  links: []
+  links:
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/florianvonbehr/"
+    - label: "Xing"
+      icon: "fa-brands fa-square-xing"
+      url: "https://www.xing.com/profile/Florian_vBehr/"
 
 # Site Footer
 footer:
