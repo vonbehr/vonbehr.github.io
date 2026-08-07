@@ -192,7 +192,6 @@ DEPENDENCIES
   jekyll (~> 4.4.1)
   jekyll-feed (~> 0.12)
   jekyll-include-cache
-  jekyll-paginate
   jekyll-sitemap
   minimal-mistakes-jekyll
   tzinfo (>= 1, < 3)

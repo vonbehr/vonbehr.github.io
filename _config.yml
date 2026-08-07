@@ -43,7 +43,6 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 plugins:
   # - jekyll-feed
   - jekyll-include-cache
-  - jekyll-paginate
   # - jekyll-sitemap
 
 # Site Author
@@ -63,28 +62,12 @@ footer:
       icon: "fa-brands fa-square-xing"
       url: "https://www.xing.com/profile/Florian_vBehr/"
 
-words_per_minute: 200
 breadcrumbs: false
 search: false
 search_full_content: false
 
-# Pagination
-paginate: 5
-paginate_path: /page:num/
-
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
   # _pages
   - scope:
       path: ""
