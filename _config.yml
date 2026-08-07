@@ -34,6 +34,9 @@ repository: "vonbehr/vonbehr.github.io"
 
 locale: "de-DE"
 
+atom_feed:
+  hide: true
+
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
