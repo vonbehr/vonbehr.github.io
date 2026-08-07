@@ -29,7 +29,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vonbehr.github.io" # the base hostname & protocol for your site
 
-logo: "/assets/images/florian_von_behr.jpeg"
+# Logo left of title
+# logo: "/assets/images/florian_von_behr.jpeg"
 # masthead_title: "Florian von Behr"
 
 title_separator: "|"
@@ -51,6 +52,7 @@ plugins:
 # Site Author
 author:
   name: ""
+  avatar: "/assets/images/florian_von_behr.jpeg"
   bio: "Building scalable CGI pipelines for high-end visualization."
   location: "Bremen"
   links:
