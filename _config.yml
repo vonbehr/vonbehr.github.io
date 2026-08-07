@@ -30,7 +30,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vonbehr.github.io" # the base hostname & protocol for your site
 
 # Logo left of title
-# logo: "/assets/images/florian_von_behr.jpeg"
+logo: "/assets/images/logo_cube.jpg"
 # masthead_title: "Florian von Behr"
 
 title_separator: "|"
