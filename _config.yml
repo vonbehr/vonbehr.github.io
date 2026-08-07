@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Florian von Behr"
+# title: "Florian von Behr"
 subtitle: "CG Supervisor • Technical Director • Pipeline Engineer"
 
 email: "florian@florianvonbehr.de"
@@ -31,7 +31,7 @@ url: "https://vonbehr.github.io" # the base hostname & protocol for your site
 
 # Logo left of title
 logo: "/assets/images/logo_cube.jpg"
-# masthead_title: "..."
+masthead_title: "Florian von Behr"
 
 title_separator: "|"
 repository: "vonbehr/vonbehr.github.io"
