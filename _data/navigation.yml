@@ -2,6 +2,8 @@
 main:
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Development"
+    url: /development/
   - title: "Lebenslauf"
     url: /lebenslauf/
   - title: "Kontakt"
