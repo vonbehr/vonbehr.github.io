@@ -3,25 +3,28 @@ layout: single
 ---
 
 # Willkommen
-Ich entwickle seit mehr als fünfzehn Jahren Lösungen für hochwertige CGI-Produktionen.
-Mein Schwerpunkt liegt heute auf der Entwicklung effizienter Produktionspipelines, Workflow-Automatisierung und moderner Rendering-Technologien.
-Ich arbeite gerne an der Schnittstelle zwischen Kreativität und Softwareentwicklung und unterstütze Teams dabei, komplexe Produktionsprozesse einfacher, robuster und skalierbarer zu gestalten.
+
+Ich bin CG Supervisor und Technical Director mit über 15 Jahren Erfahrung in der Entwicklung skalierbarer CGI-Produktionspipelines für die internationale Automobilindustrie.
+
+Mein Schwerpunkt liegt auf effizienten Produktionsworkflows, Workflow-Automatisierung mit Python und der Einführung moderner Rendering- und Materialstandards wie USD, MaterialX und Cloud-Rendering.
+
+Ich arbeite an der Schnittstelle zwischen Kreativität und Softwareentwicklung und unterstütze Teams dabei, komplexe Produktionsprozesse einfacher, robuster und skalierbarer zu gestalten.
 
 # Was ich mache
 
 ## CG Pipeline Entwicklung
-Ich entwickle Produktionspipelines für moderne CGI-Workflows. Von Asset-Management und Workflow-Automatisierung bis zur Integration aktueller Technologien wie USD, MaterialX und Cloud-Rendering.
+Konzeption und Weiterentwicklung moderner CGI-Produktionspipelines — von Asset-Management und Workflow-Automatisierung bis zur Integration aktueller Technologien wie USD, MaterialX und Cloud-Rendering.
 
 ## Technical Direction
 Ich verbinde kreative Teams mit technischer Infrastruktur und entwickle Prozesse, die Produktionen effizienter, robuster und skalierbarer machen.
 
 ## High-End Visualization
-Seit über fünfzehn Jahren arbeite ich an Visualisierungen für internationale Kunden aus den Bereichen Automotive, Industrie und Architektur.
+Seit über 15 Jahren arbeite ich an Visualisierungen für internationale Kunden aus den Bereichen Automotive, Industrie und Architektur — unter anderem für Porsche, Mercedes-Benz, BMW, Audi und Volkswagen.
 
 ## Kennzahlen
 
 - 15+ Jahre Berufserfahrung
-- Jahre Automotive CGI
+- 10+ Jahre Automotive CGI
 - 100+ Visualisierungsprojekte
-- Python & Pipeline Development
 - 13+ internationale Marken
+- Python & Pipeline Development
