@@ -1,0 +1,21 @@
+{%- comment -%}
+  Renders an <img> with a 1x/2x srcset from manually prepared images
+  named "name.ext" (1x) and "name@2x.ext" (2x).
+
+  Usage:
+    {% include responsive-image.html src="/assets/images/photo.jpg" alt="A description" %}
+
+  Optional parameters:
+    suffix - 2x filename suffix, default "@2x"
+    class  - CSS class(es) for the <img>
+    width  - width attribute
+    height - height attribute
+{%- endcomment -%}
+{%- assign parts = include.src | split: "." -%}
+{%- assign ext = parts | last -%}
+{%- assign base_count = parts.size | minus: 1 -%}
+{%- assign base = parts | slice: 0, base_count | join: "." -%}
+{%- assign suffix = include.suffix | default: "@2x" -%}
+{%- assign src1x = base | append: "." | append: ext | relative_url -%}
+{%- assign src2x = base | append: suffix | append: "." | append: ext | relative_url -%}
+<img src="{{ src1x }}" srcset="{{ src1x }} 1x, {{ src2x }} 2x" alt="{{ include.alt }}"{% if include.class %} class="{{ include.class }}"{% endif %}{% if include.width %} width="{{ include.width }}"{% endif %}{% if include.height %} height="{{ include.height }}"{% endif %} loading="lazy">
