@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jekyll-preview",
+      "url": "http://127.0.0.1:4123",
+      "port": 4123
+    }
+  ]
+}
