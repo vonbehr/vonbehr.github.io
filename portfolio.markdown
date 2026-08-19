@@ -4,7 +4,7 @@ permalink: /portfolio/
 ---
 
 # Automotive
-
+## Exteriors
 <figure class="car-gallery half">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/AudiA8_01.jpg" alt="Audi A8 1" -%}
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/AudiA8_02.jpg" alt="Audi A8 2" -%}
@@ -31,7 +31,7 @@ permalink: /portfolio/
 
 <figure class="car-gallery">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/AudiSnow_01.jpg" alt="Audi Snow" -%}
-  <figcaption>Audi Q7</figcaption>
+  <figcaption>Audi Q5</figcaption>
 </figure>
 
 <figure class="car-gallery">
@@ -50,17 +50,18 @@ permalink: /portfolio/
   <figcaption>Ford Champions League</figcaption>
 </figure>
 
-<figure class="car-gallery half">
-  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Genesis_01.jpg" alt="Genesis 1" -%}
-  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Genesis_02.jpg" alt="Genesis 2" -%}
-  <figcaption>Genesis</figcaption>
+<figure class="car-gallery third">
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Genesis_01.jpg" alt="Genesis GV80 Coupe" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Genesis_02.jpg" alt="Genesis GV70" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Genesis_03.jpg" alt="Genesis GV70" -%}
+  <figcaption>Genesis GV70 und GV80 Coupe</figcaption>
 </figure>
 
 <figure class="car-gallery third">
-  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Hyundai_01.jpg" alt="Hyundai 1" -%}
-  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Hyundai_02.jpg" alt="Hyundai 2" -%}
-  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Hyundai_03.jpg" alt="Hyundai 3" -%}
-  <figcaption>Hyundai</figcaption>
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Hyundai_01.jpg" alt="Hyundai Palisade" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Hyundai_02.jpg" alt="Hyundai Palisade" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Hyundai_03.jpg" alt="Hyundai Palisade" -%}
+  <figcaption>Hyundai Palisade</figcaption>
 </figure>
 
 <figure class="car-gallery half">
@@ -105,8 +106,8 @@ permalink: /portfolio/
 </figure>
 
 <figure class="car-gallery">
-  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/RenaultPainter.jpg" alt="Renault Painter" -%}
-  <figcaption>Renault</figcaption>
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/RenaultPainter.jpg" alt="Renault Kangoo" -%}
+  <figcaption>Renault Kangoo</figcaption>
 </figure>
 
 <figure class="car-gallery">
@@ -120,19 +121,11 @@ permalink: /portfolio/
   <figcaption>Škoda Fabia</figcaption>
 </figure>
 
-<figure class="car-gallery">
+<figure class="car-gallery car-gallery third">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/TeslaModel3_01.jpg" alt="Tesla Model 3" -%}
-  <figcaption>Tesla Model 3</figcaption>
-</figure>
-
-<figure class="car-gallery">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/TeslaModelS_01.jpg" alt="Tesla Model S" -%}
-  <figcaption>Tesla Model S</figcaption>
-</figure>
-
-<figure class="car-gallery">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/TeslaModelX.jpg" alt="Tesla Model X" -%}
-  <figcaption>Tesla Model X</figcaption>
+  <figcaption>Tesla</figcaption>
 </figure>
 
 <figure class="car-gallery">
@@ -140,8 +133,5 @@ permalink: /portfolio/
   <figcaption>VW WRC</figcaption>
 </figure>
 
-# Product Visualization
+## Interiors
 
-# Architecture
-
-# Technical Projects
