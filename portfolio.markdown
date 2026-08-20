@@ -63,12 +63,14 @@ permalink: /portfolio/
   <figcaption>Hyundai Palisade</figcaption>
 </figure>
 
-<figure class="car-gallery">
+<figure class="car-gallery third">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/VW_WRC_01.jpg" alt="VW WRC" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/VW_WRC_02.jpg" alt="VW WRC" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/VW_WRC_03.jpg" alt="VW WRC" -%}
   <figcaption>VW WRC</figcaption>
 </figure>
 
-<figure class="car-gallery car-gallery third">
+<figure class="car-gallery third">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/TeslaModel3_01.jpg" alt="Tesla Model 3" -%}
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/TeslaModelS_01.jpg" alt="Tesla Model S" -%}
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/TeslaModelX.jpg" alt="Tesla Model X" -%}
