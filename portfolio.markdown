@@ -135,6 +135,25 @@ permalink: /portfolio/
   <figcaption>Škoda Fabia</figcaption>
 </figure>
 
+<figure class="car-gallery third">
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/ABB_FormulaE_01.jpg" alt="ABB Formula E 1" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/ABB_FormulaE_02.jpg" alt="ABB Formula E 2" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/ABB_FormulaE_03.jpg" alt="ABB Formula E 3" -%}
+  <figcaption>ABB Formula E</figcaption>
+</figure>
+
+<figure class="car-gallery third">
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Hyundai_Ioniq5_01.jpg" alt="Hyundai Ioniq 5 1" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Hyundai_Ioniq5_02.jpg" alt="Hyundai Ioniq 5 2" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Hyundai_Ioniq5_03.jpg" alt="Hyundai Ioniq 5 3" -%}
+  <figcaption>Hyundai Ioniq 5</figcaption>
+</figure>
+
+<figure class="car-gallery">
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Lexus_01.jpg" alt="Lexus" -%}
+  <figcaption>Lexus</figcaption>
+</figure>
+
 ## Interiors
 
 <figure class="car-gallery third">
