@@ -118,16 +118,16 @@ permalink: /portfolio/
   <figcaption>Mercedes EQ</figcaption>
 </figure> -->
 
-<figure class="car-gallery half">
+<!-- <figure class="car-gallery half">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/PorscheCayenne_01.jpg" alt="Porsche Cayenne 1" -%}
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/PorscheCayenne_02.jpg" alt="Porsche Cayenne 2" -%}
   <figcaption>Porsche Cayenne</figcaption>
-</figure>
+</figure> -->
 
-<figure class="car-gallery">
+<!-- <figure class="car-gallery">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/SFMotors_01.jpg" alt="SF Motors" -%}
   <figcaption>SF Motors</figcaption>
-</figure>
+</figure> -->
 
 <!-- <figure class="car-gallery half">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/SkodaFabia_01.jpg" alt="Škoda Fabia 1" -%}
