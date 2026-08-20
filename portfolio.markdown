@@ -89,10 +89,10 @@ permalink: /portfolio/
   <figcaption>Lincoln Continental</figcaption>
 </figure>
 
-<figure class="car-gallery">
+<!-- <figure class="car-gallery">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/FordChampionsleague_01.jpg" alt="Ford Champions League" -%}
   <figcaption>Ford Champions League</figcaption>
-</figure>
+</figure> -->
 
 <!-- <figure class="car-gallery">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/LincolnMKC_01.jpg" alt="Lincoln MKC" -%}
@@ -129,11 +129,11 @@ permalink: /portfolio/
   <figcaption>SF Motors</figcaption>
 </figure>
 
-<figure class="car-gallery half">
+<!-- <figure class="car-gallery half">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/SkodaFabia_01.jpg" alt="Škoda Fabia 1" -%}
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/SkodaFabia_02.jpg" alt="Škoda Fabia 2" -%}
   <figcaption>Škoda Fabia</figcaption>
-</figure>
+</figure> -->
 
 <figure class="car-gallery third">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/ABB_FormulaE_01.jpg" alt="ABB Formula E 1" -%}
@@ -188,6 +188,12 @@ permalink: /portfolio/
   {%- include responsive-image.html src="/assets/images/portfolio/car-interior/Maybach_02.jpg" alt="Maybach Interior 2" -%}
   {%- include responsive-image.html src="/assets/images/portfolio/car-interior/Maybach_03.jpg" alt="Maybach Interior 3" -%}
   <figcaption>Maybach</figcaption>
+</figure>
+
+<figure class="car-gallery half">
+  {%- include responsive-image.html src="/assets/images/portfolio/car-interior/Hyundai_Ioniq5_01.jpg" alt="Hyundai Ioniq 5 Interior 1" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-interior/Hyundai_Ioniq5_02.jpg" alt="Hyundai Ioniq 5 Interior 2" -%}
+  <figcaption>Hyundai Ioniq 5</figcaption>
 </figure>
 
 # Weitere Projekte
