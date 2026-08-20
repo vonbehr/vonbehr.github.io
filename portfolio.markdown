@@ -53,7 +53,7 @@ permalink: /portfolio/
 
 <!-- <figure class="car-gallery">
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/AudiSnow_01.jpg" alt="Audi Snow" -%}
-  <figcaption>Audi Q5</figcaption>
+  <figcaption>Audi Q7</figcaption>
 </figure> -->
 
 <figure class="car-gallery third">
@@ -71,7 +71,7 @@ permalink: /portfolio/
 </figure>
 
 <figure class="car-gallery third">
-  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/TeslaModel3_01.jpg" alt="Tesla Model 3" -%}
+  {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/TeslaModelS_02.jpg" alt="Tesla Model 3" -%}
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/TeslaModelS_01.jpg" alt="Tesla Model S" -%}
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/TeslaModelX.jpg" alt="Tesla Model X" -%}
   <figcaption>Tesla</figcaption>
@@ -170,4 +170,6 @@ permalink: /portfolio/
   {%- include responsive-image.html src="/assets/images/portfolio/car-interior/Maybach_03.jpg" alt="Maybach Interior 3" -%}
   <figcaption>Maybach</figcaption>
 </figure>
+
+# Weitere Projekte
 
