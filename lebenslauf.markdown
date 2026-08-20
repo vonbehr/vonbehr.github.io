@@ -15,7 +15,7 @@ Bremen · florian@florianvonbehr.de · 0151 4645 4645
 
 CG Supervisor und Technical Director mit über 15 Jahren Erfahrung in Produktvisualisierung und Pipeline Entwicklung für die Automobilindustrie. Langjährige Projekterfahrung mit Porsche, Mercedes-Benz, BMW, Audi, Volkswagen und Tesla sowie internationalen Herstellern wie NIO und Pininfarina.
 
-Spezialisiert auf die Konzeption und Weiterentwicklung skalierbarer CGI-Produktionspipelines, Workflow-Automatisierung mit Python und die Einführung moderner Rendering- und Materialstandards (USD, MaterialX, OpenPBR). Verantwortete zuletzt die technische Migration ganzer Produktionsumgebungen — von der Ablösung des Renderers bis zum Aufbau von Cloud-Rendering-Infrastruktur — und verbindet dabei technische Tiefe mit einem klaren Blick für Produktionsrealität.
+Spezialisiert auf die Konzeption und Weiterentwicklung skalierbarer CGI-Produktionspipelines, Workflow-Automatisierung mit Python und die Einführung moderner Rendering- und Materialstandards (USD, MaterialX, OpenPBR). Verantwortete zuletzt die technische Migration ganzer Produktionsumgebungen — von der Ablösung des Renderers bis zum Aufbau von Cloud-Rendering-Infrastruktur - und verbindet dabei technisches Know How mit einem klaren Blick für die täglichen Produktionsabläufe.
 
 Neben der technischen Verantwortung begleite ich die fachliche Weiterentwicklung von Teams, treibe Technologieeinführungen voran und fungiere als Schnittstelle zwischen Kreativ-, IT- und Projektteams.
 
@@ -58,7 +58,7 @@ Verantwortlich für die technische Weiterentwicklung der gesamten CGI-Produktion
 
 *Cloud Rendering* — Einführung von AWS Deadline als skalierbare Rendering-Infrastruktur inklusive Integration in die bestehende Produktionspipeline.
 
-*Pipeline Management* — Einführung und Weiterentwicklung von OpenPype bzw. Ayon zur Verwaltung von Assets, Versionen und Produktionsprozessen; Umstellung auf ACES Colormanagement.
+*Pipeline Management* — Einführung und Weiterentwicklung von OpenPype bzw. Ayon zur Verwaltung von Assets, Versionen und Produktionsprozessen. Umstellung auf ACES Colormanagement.
 
 *Python-Entwicklung* — Entwicklung zahlreicher Python-Werkzeuge zur Automatisierung wiederkehrender Produktionsaufgaben, darunter automatisierte Shader-Konvertierung, Materialzuweisung, Data Preparation, Render Setup, AOV-Erstellung, Light Selects, Render Layer und Qualitätskontrollen.
 
@@ -102,7 +102,7 @@ Selbstständige Tätigkeit mit Schwerpunkt Architektur-, Produkt- und Werbevisua
 
 **Ausgewählte Projekte**
 
-*Realm Of Light – A Brief History of Life* — Full-CG-Dome-Produktion. Verantwortlich für Modeling, Texturing, Rendering und Shot-Produktion.
+*Realm Of Light – A Brief History of Life* — Full-CG Dome-Produktion. Verantwortlich für Modeling, Texturing, Rendering und Shot-Produktion.
 
 *Technisch-Historisches Museum Peenemünde* — Konzeption und Visualisierung einer Nachnutzung des historischen Sauerstoffwerks.
 
