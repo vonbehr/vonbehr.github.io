@@ -13,7 +13,7 @@ Bremen · florian@florianvonbehr.de · 0151 4645 4645
 
 # Profil
 
-CG Supervisor und Technical Director mit über 15 Jahren Erfahrung in Produktvisualisierung und Pipeline Entwicklung für die Automobilindustrie. Langjährige Projekterfahrung mit Porsche, Mercedes-Benz, BMW, Audi, Volkswagen und Tesla sowie internationalen Herstellern wie NIO und Pininfarina.
+CG Supervisor und Technical Artist mit über 15 Jahren Erfahrung in Produktvisualisierung und Pipeline Entwicklung für die Automobilindustrie. Langjährige Projekterfahrung mit Porsche, Mercedes-Benz, BMW, Audi, Volkswagen und Tesla sowie internationalen Herstellern wie NIO und Pininfarina.
 
 Spezialisiert auf die Konzeption und Weiterentwicklung skalierbarer CGI-Produktionspipelines, Workflow-Automatisierung mit Python und die Einführung moderner Rendering- und Materialstandards (USD, MaterialX, OpenPBR). Verantwortete zuletzt die technische Migration ganzer Produktionsumgebungen — von der Ablösung des Renderers bis zum Aufbau von Cloud-Rendering-Infrastruktur - und verbindet dabei technisches Know How mit einem klaren Blick für die täglichen Produktionsabläufe.
 
