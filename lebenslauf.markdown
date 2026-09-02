@@ -3,9 +3,7 @@ title: Lebenslauf
 permalink: /lebenslauf/
 ---
 
-# Florian von Behr
-
-**Senior Technical Artist & CG Supervisor · Pipeline Engineering für Automotive CGI**
+**Senior Technical Artist & CG Supervisor · Pipeline Entwicklung für Automotive CGI**
 
 Bremen · florian@florianvonbehr.de · 0151 4645 4645
 
@@ -23,7 +21,7 @@ Neben der technischen Verantwortung begleite ich die fachliche Weiterentwicklung
 
 # Kernkompetenzen
 
-**Pipeline Engineering** — CGI-Produktionspipelines, Workflow-Design & Prozessoptimierung, Pipeline-Automatisierung, Asset-Management, Produktionssupport
+**Pipeline Entwicklung** — CGI-Produktionspipelines, Workflow-Design & Prozessoptimierung, Pipeline-Automatisierung, Asset-Management, Produktionssupport
 
 **Softwareentwicklung** — Python, PySide/Qt, Maya API, MEL, Git
 
@@ -40,7 +38,7 @@ Neben der technischen Verantwortung begleite ich die fachliche Weiterentwicklung
 ## CG Supervisor
 **The Scope GmbH · Hamburg** — seit 10/2017
 
-Verantwortlich für die technische Weiterentwicklung der gesamten CGI-Produktion mit Fokus auf Pipeline Engineering, Workflow-Optimierung und Automatisierung.
+Verantwortlich für die technische Weiterentwicklung der gesamten CGI-Produktion mit Fokus auf Pipeline Entwicklung, Workflow-Optimierung und Automatisierung.
 
 **Verantwortungsbereiche**
 - Konzeption und Weiterentwicklung der Produktionspipeline
