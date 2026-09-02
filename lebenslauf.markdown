@@ -89,6 +89,11 @@ Erstellung hochwertiger Produktvisualisierungen für internationale Kunden.
 - Compositing
 - Qualitätskontrolle
 
+## BRUT Ausbildung
+**Teilnahme an Gründungsausbildung** - 03/2007 - 02/2008
+
+Teilnahme am Bremer Programm zur Förderung von Unternehmensgründungen durch Hochschulabsolventen /-innen und Young Professionals (BRUT)der Wirtschaftsförderung Bremen mit Schwerpunkt Businessplanentwicklung und begleitende Gründungsvorbereitung.
+
 ## Freiberuflicher 3D Artist
 **Selbstständig** — 05/2006 – 02/2011
 
