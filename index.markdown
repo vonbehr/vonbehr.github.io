@@ -22,7 +22,7 @@ Konzeption und Weiterentwicklung moderner CGI-Produktionspipelines, von Asset-Ma
 ## Technical Art
 Ich verbinde kreative Teams mit technischer Infrastruktur und entwickle Prozesse, die Produktionen effizienter, robuster und skalierbarer machen.
 
-## High-End Visualization
+## High-End Visualisierung
 Seit über 15 Jahren arbeite ich an Visualisierungen für internationale Kunden aus den Bereichen Automotive, Industrie und Architektur, unter anderem für Porsche, Mercedes-Benz, BMW, Audi und Volkswagen.
 
 ## Kennzahlen
