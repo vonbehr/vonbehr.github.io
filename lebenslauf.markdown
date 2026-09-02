@@ -89,15 +89,12 @@ Erstellung hochwertiger Produktvisualisierungen für internationale Kunden.
 - Compositing
 - Qualitätskontrolle
 
-## BRUT Ausbildung
-**Teilnahme an Gründungsausbildung** - 03/2007 - 02/2008
-
-Teilnahme am Bremer Programm zur Förderung von Unternehmensgründungen durch Hochschulabsolventen /-innen und Young Professionals (BRUT)der Wirtschaftsförderung Bremen mit Schwerpunkt Businessplanentwicklung und begleitende Gründungsvorbereitung.
-
 ## Freiberuflicher 3D Artist
 **Selbstständig** — 05/2006 – 02/2011
 
 Selbstständige Tätigkeit mit Schwerpunkt Architektur-, Produkt- und Werbevisualisierung.
+
+Parallel dazu: Teilnahme am BRUT-Gründungsprogramm der Bremer Investitions-Gesellschaft big (Gründungsausbildung 200 Std., Businessplanentwicklung), 2007–2008.
 
 **Leistungen:** Architekturvisualisierung, Produktvisualisierung, Animation, Werbegrafik, Kundenberatung, Projektkoordination
 
