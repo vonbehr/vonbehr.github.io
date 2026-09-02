@@ -94,7 +94,7 @@ Erstellung hochwertiger Produktvisualisierungen für internationale Kunden.
 
 Selbstständige Tätigkeit mit Schwerpunkt Architektur-, Produkt- und Werbevisualisierung.
 
-Parallel dazu: Teilnahme am BRUT-Gründungsprogramm der Bremer Investitions-Gesellschaft big (Gründungsausbildung 200 Std., Businessplanentwicklung), 2007–2008.
+Parallel dazu: Teilnahme am BRUT-Gründungsprogramm der Bremer Investitions-Gesellschaft (Gründungsausbildung 200 Std., Businessplanentwicklung), 2007–2008.
 
 **Leistungen:** Architekturvisualisierung, Produktvisualisierung, Animation, Werbegrafik, Kundenberatung, Projektkoordination
 
