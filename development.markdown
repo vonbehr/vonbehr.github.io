@@ -3,7 +3,7 @@ title: Development
 permalink: /development/
 ---
 
-Auswahl technischer Werkzeuge und Workflows, die ich als CG Supervisor und Pipeline Engineer bei The Scope GmbH konzipiert und entwickelt habe. Alle Tools sind in Python realisiert, größtenteils mit PySide/Qt-Oberflächen, und laufen produktiv innerhalb der Maya/V-Ray Pipeline für automotive CGI Produktionen.
+Auswahl technischer Werkzeuge und Workflows, die ich als CG Supervisor und Pipeline Engineer bei The Scope GmbH konzipiert und entwickelt habe. Alle Tools sind in Python realisiert, größtenteils mit PySide/Qt-Oberflächen, und laufen produktiv innerhalb der Maya/V-Ray Pipeline für automotive CGI Produktionen. 
 
 # Python Pipeline Tools
 Python Scripte zur Automatisierung wiederkehrender Aufgaben in Maya. Von der Szenenvalidierung über Shading und Beleuchtung bis zur automatisierten Qualitätssicherung. Ziel war es, manuelle Fehlerquellen im Produktionsalltag zu reduzieren und den Weg von der fertigen Szene bis zur Abgabe zu standardisieren und zu beschleunigen.
