@@ -1,4 +1,4 @@
-Visualization
+---
 title: Development
 permalink: /development/
 ---
