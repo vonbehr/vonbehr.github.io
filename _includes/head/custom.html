@@ -1,5 +1,29 @@
 <!-- start custom head snippets -->
 
+<script>
+(function () {
+  try {
+    if (localStorage.getItem('lang_pref')) return;
+
+    var htmlEl = document.documentElement;
+    var isEnglishPage = htmlEl.lang.slice(0, 2).toLowerCase() === 'en';
+    var altUrl = htmlEl.getAttribute('data-lang-alt-url');
+    var browserLang = (navigator.languages && navigator.languages[0]) || navigator.language || '';
+    var prefersGerman = /^de/i.test(browserLang);
+
+    if (altUrl && ((prefersGerman && isEnglishPage) || (!prefersGerman && !isEnglishPage))) {
+      localStorage.setItem('lang_pref', prefersGerman ? 'de' : 'en');
+      window.location.replace(altUrl);
+      return;
+    }
+
+    localStorage.setItem('lang_pref', isEnglishPage ? 'en' : 'de');
+  } catch (e) {
+    // localStorage unavailable (private mode, disabled storage, etc.) — skip auto-redirect
+  }
+})();
+</script>
+
 <link rel="stylesheet" href="{{ '/assets/css/fonts.css' | relative_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/lightbox.css' | relative_url }}">
 

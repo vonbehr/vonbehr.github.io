@@ -4,7 +4,7 @@
 
 <!doctype html>
 {% include copyright.html %}
-<html lang="{{ locale | replace: "_", "-" | default: "en" }}" class="no-js">
+<html lang="{{ locale | replace: "_", "-" | default: "en" }}" class="no-js"{% if page.lang_alt_url %} data-lang-alt-url="{{ page.lang_alt_url | relative_url }}"{% endif %}>
   <head>
     {% include head.html locale=locale %}
     {% include head/custom.html %}
