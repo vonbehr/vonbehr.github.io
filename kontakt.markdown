@@ -1,6 +1,7 @@
 ---
 title: Kontakt
 permalink: /kontakt/
+lang_alt_url: /en/contact/
 ---
 
 Florian von Behr  

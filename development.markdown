@@ -1,6 +1,7 @@
 ---
 title: Development
 permalink: /development/
+lang_alt_url: /en/development/
 ---
 
 Auswahl technischer Werkzeuge und Workflows, die ich als CG Supervisor und Pipeline Engineer bei The Scope GmbH konzipiert und entwickelt habe. Alle Tools sind in Python realisiert, größtenteils mit PySide/Qt-Oberflächen, und laufen produktiv innerhalb der Maya/V-Ray Pipeline für automotive CGI Produktionen. 

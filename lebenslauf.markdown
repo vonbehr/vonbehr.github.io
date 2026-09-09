@@ -1,6 +1,7 @@
 ---
 title: Lebenslauf
 permalink: /lebenslauf/
+lang_alt_url: /en/cv/
 ---
 
 **Senior Technical Artist & CG Supervisor · Pipeline Entwicklung für Automotive CGI**

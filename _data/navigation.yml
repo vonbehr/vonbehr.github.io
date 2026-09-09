@@ -1,4 +1,4 @@
-# main links
+# main links (German, default)
 main:
   - title: "Portfolio"
     url: /portfolio/
@@ -8,3 +8,14 @@ main:
     url: /lebenslauf/
   - title: "Kontakt"
     url: /kontakt/
+
+# main links (English)
+main-en:
+  - title: "Portfolio"
+    url: /en/portfolio/
+  - title: "Development"
+    url: /en/development/
+  - title: "CV"
+    url: /en/cv/
+  - title: "Contact"
+    url: /en/contact/

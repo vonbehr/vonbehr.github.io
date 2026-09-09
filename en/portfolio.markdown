@@ -1,7 +1,8 @@
 ---
 title: Portfolio
-permalink: /portfolio/
-lang_alt_url: /en/portfolio/
+permalink: /en/portfolio/
+locale: en
+lang_alt_url: /portfolio/
 ---
 
 # Automotive
@@ -33,7 +34,7 @@ lang_alt_url: /en/portfolio/
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Genesis_01.jpg" alt="Genesis GV80 Coupe" -%}
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Genesis_02.jpg" alt="Genesis GV70" -%}
   {%- include responsive-image.html src="/assets/images/portfolio/car-exterior/Genesis_03.jpg" alt="Genesis GV70" -%}
-  <figcaption>Genesis GV70 und GV80 Coupe</figcaption>
+  <figcaption>Genesis GV70 and GV80 Coupe</figcaption>
 </figure>
 
 <figure class="car-gallery">
@@ -197,7 +198,7 @@ lang_alt_url: /en/portfolio/
   <figcaption>Hyundai Ioniq 5</figcaption>
 </figure>
 
-# Weitere Projekte
+# Other Projects
 
 <figure class="car-gallery half">
   {%- include responsive-image.html src="/assets/images/portfolio/sonstiges/KeucoAtrium.jpg" alt="Keuco Atrium" -%}

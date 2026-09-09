@@ -1,5 +1,6 @@
 ---
 layout: single
+lang_alt_url: /en/
 ---
 
 # Willkommen
