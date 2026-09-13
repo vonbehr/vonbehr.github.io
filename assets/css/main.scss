@@ -12,3 +12,34 @@ $header-font-family: $serif !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Development page: float tool screenshots to the right so body text wraps around them
+.page__content {
+  h1,
+  h2 {
+    clear: right;
+  }
+
+  .dev-gallery {
+    margin: 0 0 1.5em 0;
+
+    @include breakpoint($small) {
+      float: right;
+      clear: right;
+      width: 38%;
+      margin: 0 0 1.5em 2em;
+    }
+
+    &.half {
+      @include breakpoint($small) {
+        width: 55%;
+      }
+    }
+
+    &.third img {
+      @include breakpoint($small) {
+        width: 100% !important;
+      }
+    }
+  }
+}
