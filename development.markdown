@@ -65,6 +65,9 @@ Marking Menu in Maya zur schnellen Umwandlung von Maya Shadern in V-Ray Material
   <figcaption>Shader Marking Menu</figcaption>
 </figure>
 
+## Configurator
+Tool zur automatisierten Erstellung von Lack-Konfigurator Assets aus einer Farbliste. Auf Basis eines Excel Sheets mit offiziellen Lackfarben erzeugt es in Maya pro Farbe/Lackart-Kombination einen eigenen V-Ray Renderlayer, inklusive Konvertierung der Farbwerte von sRGB in den linearen ACEScg Arbeitsfarbraum und automatischer Zuordnung von Uni-, Metallic- und Frozen-Lackarten auf die passenden Carpaint Shader samt Clearcoat Einstellungen. Ein zweites, eigenständiges Skript fügt die gerenderten Passes anschließend zu einer einzigen, gruppierten Photoshop Datei zusammen, durch die Compositing und Marketing pro Farbe durchklicken können. Der Quellcode ist auf [GitHub](https://github.com/vonbehr/configurator) verfügbar.
+
 ## VRay Shadertools
 Sammlung von Werkzeugen zur Beschleunigung von Shading-Netzwerken in Maya. Fügt auf Knopfdruck HSV-, RemapValue- oder Triplanar-Nodes (inklusive eines Triplanar-Controllers zur zentralen Steuerung mehrerer Triplanar-Nodes) hinter ausgewählten File Nodes ein, konsolidiert mehrfach vorhandene place2dTexture- und File-Nodes zu jeweils einem gemeinsamen Node. Ergänzend lassen sich Subdivision- und Displacement-Attribute sowie prozedurale Round Edges direkt am Shader anlegen, auslesen und wieder entfernen, inklusive gespeicherter Displacement-Settings zum schnellen Übertragen auf andere Shader.
 

@@ -66,6 +66,9 @@ Marking menu in Maya for quickly converting Maya shaders into V-Ray materials vi
   <figcaption>Shader Marking Menu</figcaption>
 </figure>
 
+## Configurator
+Tool for automating the creation of paint-configurator assets from a color list. Based on an Excel sheet of official paint colors, it generates a dedicated V-Ray render layer per color/finish combination in Maya, including converting the color values from sRGB into the linear ACEScg working color space and automatically mapping solid, metallic, and frozen finishes to the matching carpaint shaders along with their clearcoat settings. A second, standalone script then assembles the rendered passes into a single, grouped Photoshop file that compositing and marketing can click through per color. The source code is available on [GitHub](https://github.com/vonbehr/configurator).
+
 ## VRay Shadertools
 Collection of tools for speeding up shading networks in Maya. Adds HSV, RemapValue, or triplanar nodes (including a triplanar controller for centrally controlling multiple triplanar nodes) behind selected file nodes at the push of a button, and consolidates duplicate place2dTexture and file nodes into a single shared node each. It also lets you create, read, and remove subdivision and displacement attributes as well as procedural round edges directly on the shader, including saved displacement settings for quickly transferring them to other shaders.
 
