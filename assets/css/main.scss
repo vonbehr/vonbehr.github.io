@@ -13,6 +13,81 @@ $header-font-family: $serif !default;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Main nav: dropdown submenu for items with children (e.g. Portfolio)
+// The theme clips .visible-links with overflow: hidden while greedy-nav measures
+// item widths; allow the absolutely positioned submenu to escape that clip.
+.greedy-nav .visible-links {
+  overflow: visible;
+}
+
+.masthead__menu-item--dropdown {
+  position: relative;
+
+  > a::after {
+    content: "";
+    display: inline-block;
+    margin-inline-start: 0.35em;
+    vertical-align: middle;
+    border-inline-start: 0.35em solid transparent;
+    border-inline-end: 0.35em solid transparent;
+    border-top: 0.35em solid currentColor;
+  }
+
+  &:hover > .masthead__submenu,
+  &:focus-within > .masthead__submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+}
+
+.masthead__submenu {
+  position: absolute;
+  inset-inline-start: 0;
+  top: 100%;
+  z-index: 10;
+  margin: 0;
+  padding: 0.5em 0;
+  min-width: 12em;
+  list-style: none;
+  background: $background-color;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-4px);
+  transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s;
+
+  li {
+    display: block;
+  }
+
+  a {
+    display: block;
+    margin: 0;
+    padding: 0.4em 1em;
+    white-space: nowrap;
+
+    &::before {
+      display: none;
+    }
+  }
+}
+
+// Inside the collapsed mobile menu (greedy-nav overflow) the submenu just expands inline
+.hidden-links .masthead__submenu {
+  position: static;
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+  box-shadow: none;
+  border: none;
+  border-top: 1px solid $border-color;
+  border-radius: 0;
+  padding-inline-start: 1em;
+}
+
 // Development page: float tool screenshots to the right so body text wraps around them
 .page__content {
   h1,

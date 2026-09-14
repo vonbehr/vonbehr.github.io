@@ -23,12 +23,19 @@
         </a>
         <ul class="visible-links">
           {%- for link in site.data.navigation[nav_key] -%}
-            <li class="masthead__menu-item">
+            <li class="masthead__menu-item{% if link.children %} masthead__menu-item--dropdown{% endif %}">
               <a
                 href="{{ link.url | relative_url }}"
                 {% if link.description %} title="{{ link.description }}"{% endif %}
                 {% if link.target %} target="{{ link.target }}"{% endif %}
               >{{ link.title }}</a>
+              {% if link.children %}
+              <ul class="masthead__submenu">
+                {%- for child in link.children -%}
+                  <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+                {%- endfor -%}
+              </ul>
+              {% endif %}
             </li>
           {%- endfor -%}
           <li class="masthead__menu-item lang-switch">

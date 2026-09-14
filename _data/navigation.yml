@@ -2,6 +2,15 @@
 main:
   - title: "Portfolio"
     url: /portfolio/
+    children:
+      - title: "Auto Exterior"
+        url: /portfolio/auto-exterior/
+      - title: "Auto Interior"
+        url: /portfolio/auto-interior/
+      - title: "Technik"
+        url: /portfolio/technik/
+      - title: "Sonstige"
+        url: /portfolio/sonstige/
   - title: "Development"
     url: /development/
   - title: "Lebenslauf"
@@ -13,6 +22,15 @@ main:
 main-en:
   - title: "Portfolio"
     url: /en/portfolio/
+    children:
+      - title: "Auto Exterior"
+        url: /en/portfolio/auto-exterior/
+      - title: "Auto Interior"
+        url: /en/portfolio/auto-interior/
+      - title: "Technology"
+        url: /en/portfolio/technology/
+      - title: "Other Projects"
+        url: /en/portfolio/other-projects/
   - title: "Development"
     url: /en/development/
   - title: "CV"
