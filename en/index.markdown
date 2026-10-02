@@ -11,7 +11,7 @@ lang_alt_url: /
   <iframe src="https://www.youtube.com/embed/yedBPl7U770" title="YouTube video player" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-I am a CG Supervisor and Technical Artist with more than 15 years of experience building scalable CGI pipelines for high-end visualization production.
+I am a CG Supervisor and Senior Technical Artist with more than 15 years of experience building CGI pipelines for high-end visualization production.
 
 My focus is on efficient production workflows, workflow automation with Python, and introducing modern rendering and material standards such as USD, MaterialX, and cloud rendering.
 
