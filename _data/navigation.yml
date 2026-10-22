@@ -11,6 +11,8 @@ main:
         url: /portfolio/technik/
       - title: "Sonstige"
         url: /portfolio/sonstige/
+  - title: "Projekte"
+    url: /projekte/
   - title: "Development"
     url: /development/
   - title: "Lebenslauf"
@@ -29,8 +31,10 @@ main-en:
         url: /en/portfolio/auto-interior/
       - title: "Technology"
         url: /en/portfolio/technology/
-      - title: "Other Projects"
+      - title: "Other Works"
         url: /en/portfolio/other-projects/
+  - title: "Projects"
+    url: /en/projects/
   - title: "Development"
     url: /en/development/
   - title: "CV"

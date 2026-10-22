@@ -21,6 +21,6 @@ lang_alt_url: /portfolio/
 </figure>
 
 <figure class="car-gallery">
-  {%- include responsive-image.html src="/assets/images/portfolio/sonstiges/BenjaminMoore.jpg" alt="Other Projects" -%}
-  <figcaption><a href="/en/portfolio/other-projects/">Other Projects</a></figcaption>
+  {%- include responsive-image.html src="/assets/images/portfolio/sonstiges/BenjaminMoore.jpg" alt="Other Works" -%}
+  <figcaption><a href="/en/portfolio/other-projects/">Other Works</a></figcaption>
 </figure>

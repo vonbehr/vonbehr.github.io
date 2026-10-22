@@ -1,5 +1,5 @@
 ---
-title: Other Projects
+title: Other Works
 permalink: /en/portfolio/other-projects/
 locale: en
 lang_alt_url: /portfolio/sonstige/
