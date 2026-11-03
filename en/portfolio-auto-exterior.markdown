@@ -3,6 +3,8 @@ title: Auto Exterior
 permalink: /en/portfolio/auto-exterior/
 locale: en
 lang_alt_url: /portfolio/auto-exterior/
+description: >-
+  Automotive exterior CGI visualizations by Florian von Behr for international vehicle manufacturers.
 ---
 
 <!-- <figure class="car-gallery half">

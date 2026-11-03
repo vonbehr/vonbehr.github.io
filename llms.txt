@@ -1,0 +1,28 @@
+---
+permalink: /llms.txt
+layout: null
+sitemap: false
+---
+# Florian von Behr
+
+> CG Supervisor, Senior Technical Artist, and Pipeline Engineer based in Bremen, Germany, with 15+ years of experience building CGI production pipelines and high-end automotive visualizations for clients including Porsche, Mercedes-Benz, BMW, Audi, Volkswagen, and Tesla. Specializes in Python workflow automation, USD/MaterialX/OpenPBR adoption, and cloud rendering.
+
+This site is bilingual: German pages are at the root, English equivalents are under `/en/`.
+
+## Deutsch
+
+- [Startseite]({{ "/" | absolute_url }}): Überblick über Profil, Schwerpunkte und Kennzahlen.
+- [Lebenslauf]({{ "/lebenslauf/" | absolute_url }}): Vollständiger beruflicher Werdegang, Kompetenzen und Projekte.
+- [Portfolio]({{ "/portfolio/" | absolute_url }}): Übersicht der Visualisierungsarbeiten (Auto Exterior, Auto Interior, Technik, Sonstige).
+- [Projekte]({{ "/projekte/" | absolute_url }}): Technologie- und Infrastrukturprojekte, u.a. Umstieg von Maxwell Render auf V-Ray.
+- [Development]({{ "/development/" | absolute_url }}): Python-Pipeline-Tools für Maya/V-Ray in der automotive CGI-Produktion.
+- [Kontakt]({{ "/kontakt/" | absolute_url }}): Kontaktinformationen.
+
+## English
+
+- [Home]({{ "/en/" | absolute_url }}): Overview of profile, focus areas, and key figures.
+- [CV]({{ "/en/cv/" | absolute_url }}): Full professional background, skills, and project history.
+- [Portfolio]({{ "/en/portfolio/" | absolute_url }}): Overview of visualization work (auto exterior, auto interior, technology, other works).
+- [Projects]({{ "/en/projects/" | absolute_url }}): Technology and infrastructure projects, including the Maxwell Render to V-Ray migration.
+- [Development]({{ "/en/development/" | absolute_url }}): Python pipeline tools for Maya/V-Ray in automotive CGI production.
+- [Contact]({{ "/en/contact/" | absolute_url }}): Contact information.

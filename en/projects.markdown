@@ -3,6 +3,8 @@ title: Projects
 permalink: /en/projects/
 locale: en
 lang_alt_url: /projekte/
+description: >-
+  Technology and infrastructure projects by Florian von Behr at The Scope GmbH, including the migration from Maxwell Render to V-Ray and building cloud-rendering infrastructure.
 ---
 
 Alongside day-to-day production work, I have driven several fundamental technology and infrastructure projects at The Scope GmbH – from replacing the studio's renderer and building a local and cloud-based render farm to introducing an end-to-end production pipeline. The following sections give an overview of the starting point, the approach and my role in each of these projects.

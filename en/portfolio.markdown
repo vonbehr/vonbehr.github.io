@@ -3,6 +3,8 @@ title: Portfolio
 permalink: /en/portfolio/
 locale: en
 lang_alt_url: /portfolio/
+description: >-
+  Portfolio overview by Florian von Behr: high-end CGI visualizations for automotive exterior, automotive interior, technology products, and other projects.
 ---
 
 <figure class="car-gallery">

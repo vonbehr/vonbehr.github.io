@@ -3,6 +3,8 @@ layout: single
 permalink: /en/
 locale: en
 lang_alt_url: /
+description: >-
+  Florian von Behr is a CG Supervisor and Senior Technical Artist with more than 15 years of experience in CGI pipeline development, Python workflow automation, and high-end product visualization for automotive clients such as Porsche, Mercedes-Benz, BMW, Audi, and Volkswagen.
 ---
 
 # Welcome

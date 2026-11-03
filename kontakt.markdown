@@ -2,6 +2,8 @@
 title: Kontakt
 permalink: /kontakt/
 lang_alt_url: /en/contact/
+description: >-
+  Kontaktinformationen von Florian von Behr, CG Supervisor und Technical Director in Bremen.
 ---
 
 Florian von Behr  

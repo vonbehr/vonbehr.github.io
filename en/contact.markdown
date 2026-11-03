@@ -3,6 +3,8 @@ title: Contact
 permalink: /en/contact/
 locale: en
 lang_alt_url: /kontakt/
+description: >-
+  Contact information for Florian von Behr, CG Supervisor and Technical Director based in Bremen, Germany.
 ---
 
 Florian von Behr  

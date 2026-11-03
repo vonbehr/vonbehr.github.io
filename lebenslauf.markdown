@@ -2,6 +2,8 @@
 title: Lebenslauf
 permalink: /lebenslauf/
 lang_alt_url: /en/cv/
+description: >-
+  Lebenslauf von Florian von Behr, Senior Technical Artist und CG Supervisor mit über 15 Jahren Erfahrung in Produktvisualisierung und Pipeline-Entwicklung für die Automobilindustrie, u.a. für Porsche, Mercedes-Benz, BMW, Audi, Volkswagen und Tesla.
 ---
 
 **Senior Technical Artist & CG Supervisor · Pipeline Entwicklung für Automotive CGI**

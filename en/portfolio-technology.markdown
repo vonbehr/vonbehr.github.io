@@ -3,6 +3,8 @@ title: Technology
 permalink: /en/portfolio/technology/
 locale: en
 lang_alt_url: /portfolio/technik/
+description: >-
+  CGI visualizations of technology products and vehicles by Florian von Behr, including the Ford F-150 and Nuro.
 ---
 
 <figure class="car-gallery third">

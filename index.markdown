@@ -1,6 +1,8 @@
 ---
 layout: single
 lang_alt_url: /en/
+description: >-
+  Florian von Behr ist CG Supervisor und Senior Technical Artist mit über 15 Jahren Erfahrung in CGI-Pipeline-Entwicklung, Workflow-Automatisierung mit Python und High-End Produktvisualisierung für Automotive-Kunden wie Porsche, Mercedes-Benz, BMW, Audi und Volkswagen.
 ---
 
 # Willkommen

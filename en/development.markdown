@@ -3,6 +3,8 @@ title: Development
 permalink: /en/development/
 locale: en
 lang_alt_url: /development/
+description: >-
+  Python pipeline tools by Florian von Behr for Maya and V-Ray in automotive CGI production, including Render Toolbox and scene validation.
 ---
 
 Selection of technical tools and workflows I designed and developed as CG Supervisor and Pipeline Engineer at The Scope GmbH. All tools are built in Python, mostly with PySide/Qt interfaces, and run in production within the Maya/V-Ray pipeline for automotive CGI productions.

@@ -2,6 +2,8 @@
 title: Sonstige
 permalink: /portfolio/sonstige/
 lang_alt_url: /en/portfolio/other-projects/
+description: >-
+  Weitere CGI-Visualisierungsprojekte von Florian von Behr außerhalb des Automotive-Bereichs, u.a. für Keuco und Benjamin Moore.
 ---
 
 <figure class="car-gallery half">

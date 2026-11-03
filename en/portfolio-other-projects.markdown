@@ -3,6 +3,8 @@ title: Other Works
 permalink: /en/portfolio/other-projects/
 locale: en
 lang_alt_url: /portfolio/sonstige/
+description: >-
+  Additional CGI visualization projects by Florian von Behr outside the automotive sector, including work for Keuco and Benjamin Moore.
 ---
 
 <figure class="car-gallery half">

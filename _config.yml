@@ -41,6 +41,15 @@ locale: "de-DE"
 atom_feed:
   hide: true
 
+# Powers the Person JSON-LD schema the theme renders on the homepage
+social:
+  type: Person
+  name: "Florian von Behr"
+  links:
+    - "https://www.linkedin.com/in/florianvonbehr/"
+    - "https://www.xing.com/profile/Florian_vBehr/"
+    - "https://github.com/vonbehr"
+
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "catppuccin_latte" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"

@@ -2,6 +2,8 @@
 title: Auto Interior
 permalink: /portfolio/auto-interior/
 lang_alt_url: /en/portfolio/auto-interior/
+description: >-
+  Automotive-Interior-CGI-Visualisierungen von Florian von Behr für internationale Fahrzeughersteller.
 ---
 
 <figure class="car-gallery third">
